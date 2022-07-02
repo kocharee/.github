@@ -9,5 +9,5 @@ Grafieks is a simple business intelligence platform for data democratization.
 - 🦄 Community - https://community.grafieks.com/
 
 **Applications**
-- 📥 Application Download - https://www.grafieks.com/pricing
-- 📊 GRS - https://qa.grafieks.net
+- Application Download - https://www.grafieks.com/pricing
+- GRS - https://qa.grafieks.net
